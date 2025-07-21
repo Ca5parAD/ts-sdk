@@ -9,13 +9,17 @@ Taostats SDK for Bittensor.
   - If using Node.js v22.1.0, you may encounter WebSocket connection issues
 
 ## Installation
-
+To install, use one of the following:
 ```bash
-npm install @taostats/sdk
-# or
-yarn add @taostats/sdk
-# or
-pnpm add @taostats/sdk
+npm install @taostats/sdk # Uses Node Package Manager
+```
+or
+```bash
+yarn add @taostats/sdk # Uses Yarn (faster alternative to NPM)
+```
+or
+```bash
+pnpm add @taostats/sdk # Uses PNPM
 ```
 
 ## Usage
